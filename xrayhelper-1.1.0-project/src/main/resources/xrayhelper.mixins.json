@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.example.xray.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "BlockMixin",
+    "LiquidMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

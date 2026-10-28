@@ -1,0 +1,16 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+
+[[mods]]
+modId="xrayhelper"
+version="1.1.0"
+displayName="X-Ray Helper"
+description="Um mod de X-Ray completo e configurável para NeoForge 1.21.1."
+
+[[dependencies.xrayhelper]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1.0,)"
+    ordering="NONE"
+    side="CLIENT"

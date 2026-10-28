@@ -1,0 +1,7 @@
+{
+  "key.xrayhelper.toggle": "Alternar X-Ray",
+  "key.xrayhelper.config": "Abrir Configuração X-Ray",
+  "category.xrayhelper": "X-Ray Helper",
+  "message.xrayhelper.enabled": "§aX-Ray ATIVADO",
+  "message.xrayhelper.disabled": "§cX-Ray DESATIVADO"
+}
